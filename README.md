@@ -1,5 +1,5 @@
-## CricketDjango
-#### This project is **[Deprecated]** due to this API: https://www.cricbuzz.com/match-api/livematches.json being deprecated.
+#### This project is uses this API: https://www.cricbuzz.com/match-api/livematches.json.
+You can see new series information with that series id like Cricket League Tournament or Worldcup.
 
 ### Here's a Demo of the data it collected:
 
